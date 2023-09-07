@@ -107,7 +107,7 @@ const config = {
           alt: "Evolution API Logo",
           src: "img/brand/svg/logo-vertical-inverted.svg",
           href: "https://github.com/EvolutionAPI",
-          width: 170,
+          width: 150,
           height: "auto",
         },
         // links: [

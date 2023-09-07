@@ -18,7 +18,10 @@ function HomepageHeader() {
           API in NodeJS.
         </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs">
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/get-started/introduction"
+          >
             Get started!
           </Link>
         </div>
