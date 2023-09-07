@@ -30,6 +30,6 @@ This command generates static content into the `build` directory and can be serv
 
 ### Contribute
 
-Make a fork of this repo, start a new branch to mark you contrubuition code, commit to your for and come here compose your great pull request...
+Make a fork of this repo, start a new branch to mark you contrubuition code, commit to your remote fork and come here compose your great pull request...
 
 ...And, Welcome to the team! 🎉
